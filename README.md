@@ -263,7 +263,7 @@ Inventory Skills for IT Support - Spiceworks, PDQ, ManageEngine
 https://www.youtube.com/watch?v=90bNK4fUSk0&list=PLxo6mf-dQ33hjRRN-lLkCqA3pdT9Kuf3c  
 
 
-KevTech
+KevTech  
 IT: Entry Level Helpdesk (Understanding Tickets Using Spiceworks, RDP Tools) New Techs Part 13  
 https://www.youtube.com/watch?v=5DSaJuzw_PM&list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht  
 IT: IT Support Training Ticket System and Free Resources (AMA)  
