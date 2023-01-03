@@ -133,7 +133,7 @@ After the download is completed, the end user will need to open the installer to
 ![image](https://user-images.githubusercontent.com/121589466/210323360-452c95f6-6b94-4aea-870f-7c2d6d0a2207.png)
 
 It will take a short while to install.  
-![image](https://user-images.githubusercontent.com/121589466/210323380-72590bb7-d0a9-4a7f-90aa-4c55e332cd55.png)
+![image](https://user-images.githubusercontent.com/121589466/210323380-72590bb7-d0a9-4a7f-90aa-4c55e332cd55.png)  
 The end user might see the windows defender popup below. They can press cancel to close it. The software will still work.  
 ![image](https://user-images.githubusercontent.com/121589466/210323405-616a3317-af6f-4cb2-9dfa-47ee70ca9ac2.png)
 
