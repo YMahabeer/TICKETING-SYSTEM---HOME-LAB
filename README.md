@@ -174,7 +174,7 @@ You can now name the step and fill out the details for that step. You can contin
 After adding the steps, you can also add a conclusion or even references for a particular issue.
 ![image](https://user-images.githubusercontent.com/121589466/210323734-e76daf8b-5e4a-4cd4-8628-26c04572004c.png)
 
-You can then click save to commit your article to the knowledge base.
+You can then click save to commit your article to the knowledge base.  
 ![image](https://user-images.githubusercontent.com/121589466/210323745-e71637ce-dbae-4af0-afa1-c8ad9ab51279.png)
 
 
