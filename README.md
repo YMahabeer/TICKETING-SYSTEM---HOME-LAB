@@ -22,8 +22,8 @@ This is a ticketing system lab which will teach you how to setup and then use a 
 4)	Inventory Management  
     a.	Device Inventory Setup  
     b.	Common Inventory Tasks  
-        i.	Associating Device to Existing Ticket  
-        ii.	Assigning Device to User  
+        1.	Associating Device to Existing Ticket  
+        2.	Assigning Device to User  
 
 
 ## Lab Setup  
