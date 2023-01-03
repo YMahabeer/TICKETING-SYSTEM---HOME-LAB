@@ -258,10 +258,16 @@ You can now enter the name of the person that the device will be assigned to. Yo
 Source:  
 Jobskillshare community  
 Cloud Spiceworks Help Desk | IT Support Ticketing Training  
+https://www.youtube.com/watch?v=rsjAqTU2q_c&list=PLxo6mf-dQ33iCiTWv8EKJnoh8ax0kDZy1  
 Inventory Skills for IT Support - Spiceworks, PDQ, ManageEngine  
+https://www.youtube.com/watch?v=90bNK4fUSk0&list=PLxo6mf-dQ33hjRRN-lLkCqA3pdT9Kuf3c  
 
-KevTech  
+
+KevTech
 IT: Entry Level Helpdesk (Understanding Tickets Using Spiceworks, RDP Tools) New Techs Part 13  
+https://www.youtube.com/watch?v=5DSaJuzw_PM&list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht  
 IT: IT Support Training Ticket System and Free Resources (AMA)  
+https://www.youtube.com/watch?v=TXyABnF8J2c  
+
 
 
